@@ -86,20 +86,6 @@ I'm a **competitive programmer turned software engineer** who believes elegant a
 
 ---
 
-## 🚀 Featured Projects
-
-### **Software Engineering Focus**
-| Project | Tech Stack | Description | Highlights |
-|---------|------------|-------------|------------|
-| **[Full-Stack Real Estate System](https://github.com/Najmul-Hasan-Sabbir/)** | React, Node.js, Express, MongoDB | Comprehensive platform for property listings, bookings, and payments | • Full MERN stack implementation<br>• OOP design principles<br>• Database schema design |
-| **Algorithm Visualizer** *(In Development)* | JavaScript, React, D3.js | Interactive visualization of sorting and pathfinding algorithms | • Bridges CP & Web Dev<br>• Educational tool for DSA<br>• Clean UI/UX design |
-
-### **Data Science & ML Focus**
-| Project | Tech Stack | Description | Highlights |
-|---------|------------|-------------|------------|
-| **[Sign Language Detection](https://github.com/Najmul-Hasan-Sabbir/)** | Python, YOLOv8, OpenCV | Real-time sign language gesture recognition from video streams | • Multiple architecture comparison<br>• Real-time inference<br>• Practical ML application |
-| **[Hospital Performance Analytics](https://github.com/Najmul-Hasan-Sabbir/Hospital-Performance-Data-Analysis-project-)** | SQL, Power BI, Python | Dashboard for tracking hospital cost and claims KPIs | • SQL data transformation<br>• Interactive Power BI dashboard<br>• Business insights generation |
-| **[Vendor Performance Analytics](https://github.com/Najmul-Hasan-Sabbir/Vendor-Performance-Data-Analytics)** | Python, SQL, Hypothesis Testing | Analysis of vendor efficiency with statistical validation | • EDA & hypothesis testing<br>• Data-backed recommendations<br>• Supply chain optimization |
 
 ---
 
