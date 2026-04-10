@@ -2,11 +2,11 @@
 
 # Najmul Hasan Sabbir 👨‍💻
 
-### SQA Engineer @ Doin Tech | Competitive Programmer | Data Analyst
+### Software Engineer | Competitive Programmer | Data Analyst
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1154-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Najmul_Hasan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/najmulsabbir2020/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Najmul-Hasan-Sabbir)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/najmulsabbir2020/))
+[![GitHub](https://img.shields.io/github/followers/Najmul-Hasan-Sabbir?label=Follow&style=for-the-badge&logo=github)](https://github.com/Najmul-Hasan-Sabbir)
 [![Location](https://img.shields.io/badge/Dhaka%2C%20Bangladesh-Banani-0088cc?style=for-the-badge&logo=map-marker&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-najmulsabbir2020@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmulsabbir2020@gmail.com)
 
@@ -16,15 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a **competitive programmer turned SQA Engineer at Doin Tech** who believes quality assurance and clean code form the backbone of great software. My parallel expertise in data science and machine learning allows me to build not just functional systems, but **intelligent, data-driven testing strategies**. I thrive on ensuring software quality through systematic testing and analytical approaches.
+I'm a **competitive programmer turned software engineer** who believes elegant algorithms and clean code form the backbone of great software. My parallel expertise in data science and machine learning allows me to build not just functional systems, but **intelligent, data-driven applications**. I thrive on solving complex problems at the intersection of software engineering and analytics.
 
-- 🏢 **SQA Engineer** at **Doin Tech**
 - 🏆 **Competitive Programmer** with strong DSA foundation (Codeforces: 1154)
 - 💻 **Full-Stack Developer** experienced in MERN stack & JavaScript ecosystem
 - 📊 **Data Analyst** skilled in SQL, Python analytics, and dashboard creation
 - 🤖 **ML Enthusiast** with hands-on experience in CNN, YOLOv8, and classification models
-- 🔍 **SQA Specialist** skilled in Test Automation, Manual Testing, API Testing & Bug Tracking
-- 🎯 Currently ensuring quality standards at **Doin Tech** while leveraging my **algorithmic thinking**
+- 🎯 Currently seeking roles where I can leverage my **algorithmic thinking** and **software craftsmanship**
 
 ---
 
@@ -45,19 +43,13 @@ I'm a **competitive programmer turned SQA Engineer at Doin Tech** who believes q
 - Solved **500+ problems** across platforms
 - Developed **expert-level analytical abilities** through intensive algorithmic challenges
 - Mastered **advanced data structures** and **algorithmic paradigms**
-- Cultivated **systematic problem-solving** approach applicable to software engineering and QA
+- Cultivated **systematic problem-solving** approach applicable to software engineering
 
 ---
 
 ## ⚡ Tech Stack & Skills
 
-### **Primary Domain (SQA & Software Engineering)**
-**Testing & QA:**
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-6A1B9A?style=flat&logo=testinglibrary&logoColor=white)
-![Automation Testing](https://img.shields.io/badge/Automation-Intermediate-4CAF50?style=flat&logo=selenium&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-Advanced-FF6D00?style=flat&logo=postman&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-Proficient-E91E63?style=flat&logo=jira&logoColor=white)
-
+### **Primary Domain (Software Engineering & CP)**
 **Languages & Core:**
 ![C++](https://img.shields.io/badge/C++-Expert-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -94,14 +86,14 @@ I'm a **competitive programmer turned SQA Engineer at Doin Tech** who believes q
 
 ---
 
-## 📈 GitHub Statistics (Auto-updates daily)
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
   
-![GitHub Followers](https://img.shields.io/github/followers/Najmul-Hasan-Sabbir?label=Followers&style=for-the-badge&logo=github&color=blueviolet)
-![GitHub Stars](https://img.shields.io/github/stars/Najmul-Hasan-Sabbir?label=Total%20Stars&style=for-the-badge&logo=github&color=gold)
-
-![Najmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sabbir&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Najmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Najmul-Hasan-Sabbir&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-Hasan-Sabbir&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
@@ -109,13 +101,10 @@ I'm a **competitive programmer turned SQA Engineer at Doin Tech** who believes q
 
 </div>
 
-> **Note:** All stats above (followers, stars, streak, longest streak, etc.) update **automatically** every time someone views your profile or when GitHub refreshes the cache!
-
 ---
 
 ## 🎯 Currently Focused On
 
-- 🔍 **Mastering SQA methodologies** at **Doin Tech** including test automation and API testing
 - 📚 **Enhancing Competitive Programming** rating on Codeforces
 - 🏗️ **Building scalable web applications** with modern architectures
 - 🧠 **Exploring system design** principles and distributed systems
@@ -141,7 +130,7 @@ I'm a **competitive programmer turned SQA Engineer at Doin Tech** who believes q
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=Najmul-Hasan-Sabbir&color=blueviolet&style=flat-square)
 
-**Open to exciting SQA & Software Engineering opportunities!**  
-*Currently ensuring quality standards at Doin Tech* 🚀
+**Open to exciting Software Engineering opportunities!**  
+*Let's build something amazing together.* 🚀
 
 </div>
